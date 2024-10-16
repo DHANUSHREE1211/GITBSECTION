@@ -8,4 +8,4 @@ learning
 ok
 YES
 git rebase
-git class
+git
