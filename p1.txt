@@ -12,12 +12,6 @@ git
 git bash
 ok
 git rebase
-<<<<<<< Updated upstream
-ok
-=======
-git bash
->>>>>>> Stashed changes
 karnataka
-merging
 git merging
 git commiting
