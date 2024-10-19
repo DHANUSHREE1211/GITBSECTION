@@ -16,3 +16,5 @@ git
 git bash
 ok
 karnataka
+merging
+git merging
