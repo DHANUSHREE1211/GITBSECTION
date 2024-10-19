@@ -8,6 +8,8 @@ learning
 ok
 YES
 ok
-karnataka
+git rebase
 git
-merging
+git bash
+ok
+karnataka
