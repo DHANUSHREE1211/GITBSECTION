@@ -12,7 +12,6 @@ git
 git bash
 ok
 git rebase
-git bash
 ok
 karnataka
 merging
