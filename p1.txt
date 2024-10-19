@@ -9,7 +9,6 @@ ok
 YES
 ok
 git rebase
-git
 git bash
 ok
 karnataka
