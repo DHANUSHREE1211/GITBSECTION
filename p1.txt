@@ -18,3 +18,4 @@ ok
 karnataka
 merging
 git merging
+git commiting
