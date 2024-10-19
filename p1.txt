@@ -10,3 +10,4 @@ YES
 ok
 karnataka
 git
+merging
