@@ -7,6 +7,10 @@ happy
 learning
 ok
 YES
+HEAD
 git rebase
 git
 git bash
+ok
+karnataka
+feature_branch
