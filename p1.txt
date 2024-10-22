@@ -8,10 +8,3 @@ learning
 ok
 YES
 git rebase
-git
-git bash
-ok
-git rebase
-karnataka
-git merging
-git commiting
