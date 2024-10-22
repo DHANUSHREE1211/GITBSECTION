@@ -15,4 +15,3 @@ git rebase
 karnataka
 git merging
 git commiting
-git commit
