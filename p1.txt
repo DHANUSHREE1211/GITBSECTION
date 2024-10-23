@@ -8,16 +8,10 @@ learning
 ok
 YES
 git rebase
-<<<<<<< HEAD
 git
-=======
 git bash
 ok
 karnataka
 merging
 git merging
-<<<<<<< HEAD
->>>>>>> feature_branch
-=======
 ok
->>>>>>> feature_branch
