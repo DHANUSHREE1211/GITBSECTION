@@ -16,4 +16,8 @@ ok
 karnataka
 merging
 git merging
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+ok
 >>>>>>> feature_branch
