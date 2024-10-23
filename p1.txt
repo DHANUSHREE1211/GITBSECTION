@@ -13,4 +13,5 @@ git bash
 ok
 karnataka
 merging
-
+git merging
+git commiting
