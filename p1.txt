@@ -7,11 +7,11 @@ happy
 learning
 ok
 YES
+ok
 git rebase
-git
 git bash
 ok
 karnataka
 merging
 git merging
-ok
+git commiting
