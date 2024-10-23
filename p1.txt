@@ -14,4 +14,3 @@ ok
 karnataka
 merging
 git merging
-ok
