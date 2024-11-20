@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 HEllo
+=======
 revert
 reverting
-ok
+>>>>>>> parent of 3f5d4c5 (Revert "second commit in index")
