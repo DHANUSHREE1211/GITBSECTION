@@ -19,3 +19,8 @@ ok
 ok
 enter
 ok
+<<<<<<< Updated upstream
+=======
+ok
+yes
+>>>>>>> Stashed changes
