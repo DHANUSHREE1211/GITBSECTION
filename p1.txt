@@ -21,5 +21,12 @@ enter
 ok
 ok
 yes
+<<<<<<< HEAD
 hi
+<<<<<<< HEAD
 hello
+=======
+=======
+ok
+>>>>>>> ec230ea (updated in lab ia)
+>>>>>>> fb98b27 (updated in lab ia)
