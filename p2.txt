@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HI
 :
+=======
+hi
+>>>>>>> feature_branch
