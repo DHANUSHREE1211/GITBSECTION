@@ -1,6 +1,9 @@
 Hello
+<<<<<<< HEAD
 1st line
 2nd line
+=======
+>>>>>>> feature
 3rd line
 4th line
 5th line
