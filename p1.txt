@@ -22,6 +22,7 @@ ok
 ok
 yes
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -33,3 +34,6 @@ ok
 >>>>>>> fb98b27 (updated in lab ia)
 =======
 >>>>>>> parent of 3bc5250 (Update p1.txt)
+=======
+ok
+>>>>>>> feature_branch
