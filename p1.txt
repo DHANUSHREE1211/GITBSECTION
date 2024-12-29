@@ -21,19 +21,8 @@ enter
 ok
 ok
 yes
-<<<<<<< HEAD
-<<<<<<< HEAD
 hi
-<<<<<<< HEAD
-<<<<<<< HEAD
 hello
-=======
-=======
 ok
->>>>>>> ec230ea (updated in lab ia)
->>>>>>> fb98b27 (updated in lab ia)
-=======
->>>>>>> parent of 3bc5250 (Update p1.txt)
-=======
 ok
->>>>>>> feature_branch
+ok
